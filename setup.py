@@ -13,7 +13,7 @@ if not version:
 setup(
     name='PCRPC',
     version=version,
-    author='PCDevlpoment',
+    author='PCrealdevelopers',
     description='An Python wrapper for Discord RPC',
     long_description_content_type='text/markdown',
     packages=find_packages(),
